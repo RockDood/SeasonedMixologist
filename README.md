@@ -1,1 +1,1 @@
-SeasonedMixologist
+#[ModKit Wiki](../../wiki)
